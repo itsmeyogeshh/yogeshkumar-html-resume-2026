@@ -4,8 +4,6 @@ This project is a simple one page resume created only using HTML. I have made th
 
 ## View Live Resume: https://yogeshkumar.site/resume
 
-![Yogesh Kumar Resume Screenshot](./Resume.jpg)
-
 # What is project about?
 
 - My name and a brief professional summary
